@@ -4,11 +4,6 @@
 
 Hệ thống quản lý khám chữa bệnh là một ứng dụng web toàn diện được phát triển bằng **Laravel 12** để quản lý toàn bộ quy trình khám chữa bệnh tại bệnh viện. Hệ thống hỗ trợ 3 vai trò chính: **Admin**, **Bác sĩ** và **Bệnh nhân** với các chức năng quản lý đầy đủ và hiện đại.
 
-## 🎥 Demo Video
-
-[![Demo Video](https://img.shields.io/badge/🎥-Xem_Demo_Video-red?style=for-the-badge)](https://your-video-url.com)
-
-
 
 ## 🎯 Tính năng chính
 
