@@ -260,23 +260,3 @@ php artisan test --coverage
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Tạo Pull Request
 
-## 📄 License
-
-Dự án này được phát hành dưới [MIT License](LICENSE).
-
-## 📞 Liên hệ
-
-- **Developer:** [Your Name]
-- **Email:** [your.email@example.com]
-- **GitHub:** [@yourusername]
-
-## 🙏 Acknowledgments
-
-- Laravel team cho framework tuyệt vời
-- Tailwind CSS cho styling system
-- Alpine.js cho interactive components
-- Cộng đồng open source
-
----
-
-**⭐ Nếu dự án này hữu ích, hãy cho một star nhé!**
