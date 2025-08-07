@@ -157,7 +157,7 @@ manager_hospital/
 
 ### **Bước 1: Clone dự án**
 ```bash
-git clone <repository-url>
+git clone https://github.com/otisbrother/manager_hospital.git
 cd manager_hospital
 ```
 
