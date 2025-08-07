@@ -1,4 +1,4 @@
-<img width="1911" height="828" alt="image" src="https://github.com/user-attachments/assets/c8d25212-eaf3-450e-a96d-7d6ae1346ddc" /><img width="932" height="659" alt="image" src="https://github.com/user-attachments/assets/d2d7abf9-8e1e-4751-9c20-a29ebfc4df88" /># 🏥 HỆ THỐNG QUẢN LÝ KHÁM CHỮA BỆNH VIỆN HERUKO
+# 🏥 HỆ THỐNG QUẢN LÝ KHÁM CHỮA BỆNH VIỆN HERUKO
 
 ## 📋 Tổng quan
 
