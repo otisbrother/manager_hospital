@@ -195,7 +195,8 @@ npm run dev
 ### **Admin**
 - Email: admin@gmail.com
 - Password: password
-  <img width="1511" height="855" alt="image" src="https://github.com/user-attachments/assets/558e9329-c88f-493b-888e-8fdb3041dcc2" />
+<img width="620" height="541" alt="image" src="https://github.com/user-attachments/assets/c397e59b-1fd4-4cef-be7a-fc67d616e89c" />
+
 
 ### **Bác sĩ**
 - Mỗi bác sĩ sẽ có 1 tài khoản riêng biệt nhưng có sẽ có email tổng quát : BS001_doctor@gmail.com ->BS00n_doctor@gmail.com
